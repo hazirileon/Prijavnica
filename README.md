@@ -28,8 +28,6 @@
 <label for="ime">Ime:</label>
 <input type="text" id="ime" name="ime" value=""><br>
 ```
-↓
-<label for="ime">Ime:</label><input type="text" id="ime" name="ime" value=""><br>
 _____________________________________________________________
 ```html
 <label for="spol">Spol:</label></td>
@@ -38,7 +36,5 @@ _____________________________________________________________
 <input type="radio" id="zenska" name="spol" value="Ž">
 <label for="css">Ž</label><br>
 ```
-↓
-<label for="spol">Spol:</label></td><input type="radio" id="moski" name="spol" value="M"><label for="html">M</label>  <input type="radio" id="zenska" name="spol" value="Ž"><label for="css">Ž</label><br>
 ___________________________________________________________
 Za države sem šel na →[države](https://gist.github.com/nateluzod/1037153)
