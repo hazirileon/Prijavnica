@@ -1,6 +1,6 @@
 # PRIJAVNICA (html, css)
 ## *Zgled:*
-![alt text](file:///C:/Users/e22/Downloads/Posnetek%20zaslona%202025-09-29%20103056.jpg)
+![image alt](https://github.com/hazirileon/Private/blob/0ac321e011fca3bd10ac7d55a55a5d44af5b2daf/Posnetek%20zaslona%202025-09-29%20103056%20(1).jpg)
 ## *POSTOPEK*
 #### 1.Tabela
 - za ustvarit tabelo smo uporabili po `<table>`
