@@ -68,7 +68,7 @@ ___________________________________________________________
 <option value="Armenia">Armenia</option>
 
 ```
-itd.
+itd.  
 Za države sem šel na →[države](https://gist.github.com/nateluzod/1037153)
 
 ![image alt](https://github.com/hazirileon/Private/blob/3afd739801bc05218d373b480983342570a5a8d0/Posnetek%20zaslona%202025-12-03%20095447.png)
